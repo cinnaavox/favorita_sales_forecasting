@@ -52,9 +52,8 @@ Ziel ist es, eine saubere, feature-reiche Zeitreihe zu erstellen, die als Grundl
 
 ---
 
-📂 **Quellen & Links**  
-- Kaggle Dataset: *Corporación Favorita Grocery Sales Forecasting*  
+📂 Quellen & Links  
+- Kaggle Dataset: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting)  
 - Colab-Notebooks: [Google Colab Link hier einfügen]  
 - Report (EDA Summary): [Drive-Link oder PDF einfügen]  
-- Präsentation: [Link einfügen, falls vorhanden]  
-
+- Präsentation: [Link einfügen, falls vorhanden] 
