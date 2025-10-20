@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Local artifacts (nicht committen)
+artifacts_local/
+mlflow_results/
+models/
+data/cache/
+data/raw/
+*.parquet
+*.pkl
+*.pt
+*.json
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
