@@ -72,7 +72,7 @@ Vorhersagen für März 2014, Export als Forecast-CSV + Validierungsplots
 **Tages-Summen (März):**  
 Klares Trend-Fit, moderate Abweichungen an Promo-/Peak-Tagen.
 
-![Daily Sum March](artifacts_week2_3/daily_sum_march_readme.png)
+<img width="1186" height="468" alt="Vorhersage März 2014" src="https://github.com/user-attachments/assets/10e55ffc-2fa5-44b7-bd5f-cd9b9eca588f" />
 
 **Top Features (XGB):**
 `roll_mean_7`, `lag_1`, `lag_7`, `transactions`, `day_of_week`, `onpromotion`
