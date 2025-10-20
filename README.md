@@ -84,33 +84,9 @@ PSI zeigt erwartete Verschiebungen bei **Oil** (globaler Trend) und **Transactio
 → siehe **[PSI-Tabelle (CSV)](artifacts_week2_3/psi_latest.csv)**  
 
 **Vorhersage-CSV (März 2014, Guayas, XGB):**  
-→ [Forecast CSV auf Google Drive ansehen]([https://drive.google.com/file/d/1abcXYZ123456/view?usp=sharing](https://drive.google.com/file/d/1JZ7hEAYmTQ0mSELB7Kh7FvLgrbh5C7cu/view?usp=sharing))
+→ [Forecast CSV auf Google Drive ansehen](https://drive.google.com/file/d/1JZ7hEAYmTQ0mSELB7Kh7FvLgrbh5C7cu/view?usp=sharing)
 
 ---
-
-## 💻 Optionale Erweiterung: Streamlit-App  
-
-Zur Demonstration der Ergebnisse kann das Projekt um eine interaktive **Streamlit-App** ergänzt werden.  
-Diese dient als Forecast-Explorer für **Demand Planner in der Region Guayas** und erlaubt es, Vorhersagen für beliebige Stores und Artikel visuell zu untersuchen.
-
-**Funktionen:**  
-- Upload von CSV / Parquet mit Forecasts  
-- Filter nach Store & Item  
-- Plot mit 90 % Konfidenzintervall  
-- CSV-Download der gefilterten Vorhersagen  
-- Multi-Day-Forecasts innerhalb des gewählten Fensters  
-
-**Lokaler Start (optional):**
-```bash
-git clone https://github.com/cinnaavox/favorita_sales_forecasting.git
-cd favorita_sales_forecasting
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-streamlit run app/main.py
-
-Hinweis: Die App ist optional und diente als Experiment zur visuellen Exploration.
-Das Kernziel des Projekts bleibt die Modellvalidierung & Prognosequalität.
 
 🧮 Modell & Performance
 
@@ -139,3 +115,29 @@ Colab-Notebooks: Week 1 – 3 (Analysis & Modeling)
 Docs: Week 2 Summary, Week 3 Summary (PDF-Links einfügen)
 
 Präsentation: (Slides-Link einfügen)
+
+---
+
+## 💻 Optionale Erweiterung: Streamlit-App  
+
+Zur Demonstration der Ergebnisse kann das Projekt um eine interaktive **Streamlit-App** ergänzt werden.  
+Diese dient als Forecast-Explorer für **Demand Planner in der Region Guayas** und erlaubt es, Vorhersagen für beliebige Stores und Artikel visuell zu untersuchen.
+
+**Funktionen:**  
+- Upload von CSV / Parquet mit Forecasts  
+- Filter nach Store & Item  
+- Plot mit 90 % Konfidenzintervall  
+- CSV-Download der gefilterten Vorhersagen  
+- Multi-Day-Forecasts innerhalb des gewählten Fensters  
+
+**Lokaler Start (optional):**
+```bash
+git clone https://github.com/cinnaavox/favorita_sales_forecasting.git
+cd favorita_sales_forecasting
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+streamlit run app/main.py
+
+Hinweis: Die App ist optional und diente als Experiment zur visuellen Exploration.
+Das Kernziel des Projekts bleibt die Modellvalidierung & Prognosequalität.
