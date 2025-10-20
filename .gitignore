@@ -1,14 +1,16 @@
-# Python
+# === PYTHON / ENV ===
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
+.vscode/
+.idea/
 
-# Streamlit
+# === STREAMLIT ===
 .streamlit/
 
-# Local artifacts (nicht committen)
+# === DATA / ARTIFACTS ===
 artifacts_local/
 mlflow_results/
 models/
@@ -17,9 +19,23 @@ data/raw/
 *.parquet
 *.pkl
 *.pt
-*.json
+*.joblib
+*.npz
+*.npy
+*.bin
+*.onnx
+*.ckpt
+*.log
+*.jsonl
+*.gz
+*.zip
+mlruns/
+artifacts_week2_3/xgb_*.json
+artifacts_week2_3/*scaler*.pkl
+artifacts_week2_3/lstm_*.pt
 
-# OS / IDE
+# === OS ===
 .DS_Store
-.vscode/
-.idea/
+
+# === NOTEBOOKS ===
+.ipynb_checkpoints/
