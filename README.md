@@ -100,6 +100,8 @@ mkdir -p artifacts_local
 # 4️⃣ App starten
 streamlit run app/main.py
 
+---
+
 📊 Funktionen
 
 Upload: CSV/Parquet mit Features (Jan–Mär 2014)
@@ -112,6 +114,8 @@ Download: CSV mit Vorhersagen
 
 Multi-Day Forecast: automatisch für mehrere Tage innerhalb des gewählten Fensters
 
+---
+
 🧭 Anforderungen
 
 app/
@@ -123,6 +127,8 @@ model/
   model_utils.py  – Laden / Predict / Conformal
 requirements.txt  – Dependencies
 .gitignore        – Ignoriert Artefakte & Caches
+
+---
 
 📂 Datenquellen & Links
 
