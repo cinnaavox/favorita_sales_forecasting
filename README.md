@@ -133,21 +133,3 @@ Week 3 Summary
 
 Präsentation: (Slides-Link hier einfügen)
 
-
----
-
-## 🧩 5) „How to reproduce“ (also was Reviewer machen)
-
-👉 **Wo:** unter dein README (direkt nach „Datenquellen & Links“) oder als eigenen Abschnitt  
-👉 **Warum:** Reviewer können mit 3 Klicks dein Forecast reproduzieren  
-
-```markdown
-## ▶️ Reproduzieren (Colab oder lokal)
-
-1. Öffne das Notebook `notebooks/week2_3.ipynb`  
-2. Stelle sicher, dass `xgb_booster.json` und `features.json` im Ordner `artifacts_week2_3/` liegen  
-3. Führe den Forecast-Block am Ende aus:
-   ```python
-   # erstellt /artifacts_week2_3/daily_sum_march_readme.png
-   # und forecast_guayas_2014_03.csv
-
