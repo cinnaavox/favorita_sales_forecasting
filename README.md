@@ -81,7 +81,7 @@ Klares Trend-Fit, moderate Abweichungen an Promo- und Peak-Tagen.
 
 **Stabilität (Drift-Check):**  
 PSI zeigt erwartete Verschiebungen bei **Oil** (globaler Trend) und **Transactions** (lokale Volatilität).  
-→ siehe **[PSI-Tabelle (CSV)](artifacts_week2_3/psi_latest.csv)**  
+→ siehe **[PSI-Tabelle (CSV)](https://drive.google.com/file/d/1S5g9Yc8GWgKz5lxnDvBWzFanJI9lM6f3/view?usp=sharing)**  
 
 **Vorhersage-CSV (März 2014, Guayas, XGB):**  
 → [Forecast CSV auf Google Drive ansehen](https://drive.google.com/file/d/1JZ7hEAYmTQ0mSELB7Kh7FvLgrbh5C7cu/view?usp=sharing)
