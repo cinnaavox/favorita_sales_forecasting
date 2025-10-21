@@ -108,11 +108,11 @@ Forecast-Tool zur operativen Planung weiterentwickeln (N-Day / Feiertags-Impact)
 
 📂 Datenquellen & Links
 
-Dataset: Kaggle – Corporación Favorita Grocery Sales Forecasting
+Dataset: Kaggle – Corporación Favorita Grocery Sales Forecasting (https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
-Colab-Notebooks: Week 1 – 3 (Analysis & Modeling)
+Colab-Notebooks: Week 1 (https://colab.research.google.com/drive/1pwL5XJ3m_K0IMnNC5rhJpQnDRd9hA1P7?usp=drive_link) & Week 2/3 (https://colab.research.google.com/drive/1Cfv2uuvbo5gdbMaDB4E_RMCZcxlb2ZhX?usp=drive_link)
 
-Docs: Week 2 Summary, Week 3 Summary (PDF-Links einfügen)
+Docs: Week 1 Summary (https://docs.google.com/document/d/1KaC9j29FeOrFRx0SYh6ykhUiTYikI_yoyGlCh2kejdE/edit?usp=sharing), Week 2/3 Summary (https://docs.google.com/document/d/1e2etarC9O55nTqxsOjekTLad9WM2B5jkopWBHf2YIU0/edit?usp=drive_link)
 
 Präsentation: (Slides-Link einfügen)
 
