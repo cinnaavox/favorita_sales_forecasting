@@ -124,8 +124,8 @@ st.download_button(
 
 with st.expander("Hinweise"):
     st.markdown("""
-- Dieses App nutzt dein **XGBoost-Modell aus Week 3** (Dateien in `artifacts_local/`).
-- Multi-Day Forecast funktioniert, **wenn im Upload-File die Features pro Tag bereits vorliegen** (wie in deinem Q1-Export).
-- Wähle oben Store & Item → Datumsfenster in **Jan–Mar 2014** → Forecast + optionales Konfidenzband.
-- Für andere Zeiträume musst du in Notebooks die Features neu vorbereiten (Lags/Rollings etc.) und als CSV/Parquet exportieren.
+- Diese App nutzt mein **XGBoost-Modell aus Week 3** – die Dateien liegen lokal in `artifacts_local/`.
+- Multi-Day Forecasts funktionieren, **wenn im Upload-File alle Tages-Features bereits enthalten sind** (wie in meinem Q1-Export).
+- Wähle oben Store & Item, lege den Zeitraum in **Jan–Mär 2014** fest, und sieh dir den Forecast inkl. optionalem 90%-Konfidenzintervall an.
+- Für andere Zeiträume müssen die Features in den Notebooks neu berechnet werden (Lags, Rolling Means usw.).
 """)
