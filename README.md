@@ -40,7 +40,7 @@ und gipfelt in einem **funktionsfähigen Forecast-System**, das als Grundlage f�
 3️⃣ **Exploratory Data Analysis (Week 1)**  
    - Trend, Saisonalität, Autokorrelation, STL-Decomposition  
 
-4️⃣ **Modellierung (Week 3)**  
+4️⃣ **Modellierung (Week 2/3)**  
    - Baseline- und Tuned-XGBoost (reg:squarederror)  
    - Vergleich mit einfacher LSTM-Architektur  
 
