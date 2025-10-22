@@ -121,7 +121,8 @@ Forecast-Tool zur operativen Planung weiterentwickeln (N-Day / Feiertags-Impact)
 
 **📚 Docs / Summaries**  
 - 🗂️ [Week 1 Summary (PDF)](https://drive.google.com/file/d/1_mQBL-3xMwuNjT-p6QTL9oZOzbvcgSW0/view?usp=drive_link)  
-- 📊 [Week 2 & 3 Summary (PDF)](https://drive.google.com/file/d/1WOuD4bAJAJn7rUpP_pjveGBl0FfJCyVL/view?usp=drive_link)  
+- 📊 [Week 2 & 3 Summary (PDF)](https://drive.google.com/file/d/1WOuD4bAJAJn7rUpP_pjveGBl0FfJCyVL/view?usp=drive_link)
+- 🧾 [Final Report (PDF)](https://drive.google.com/file/d/1mr8q-L_F5Icy11j0PNutiCmRxA2ruYmQ/view?usp=sharing)
 
 **🎥 Presentation**  
 - [Final Slides on Canva](https://www.canva.com/design/DAG2ZofHOTQ/_dOqv9u2oTY7nOZ4LMISAw/edit?utm_content=DAG2ZofHOTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
