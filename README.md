@@ -110,15 +110,21 @@ Forecast-Tool zur operativen Planung weiterentwickeln (N-Day / Feiertags-Impact)
 
 ---
 
-## 📂 Datenquellen & Links
+### 📂 Datenquellen & Links
 
-Dataset: **Kaggle** – Corporación Favorita Grocery Sales Forecasting (https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
+**📊 Dataset**  
+- [Kaggle – Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
-Colab-Notebooks: **Week 1** (https://colab.research.google.com/drive/1pwL5XJ3m_K0IMnNC5rhJpQnDRd9hA1P7?usp=drive_link) & **Week 2/3** (https://colab.research.google.com/drive/1Cfv2uuvbo5gdbMaDB4E_RMCZcxlb2ZhX?usp=drive_link)
+**💻 Colab-Notebooks**  
+- [Week 1 – Data Preparation & EDA](https://colab.research.google.com/drive/1pwL5XJ3m_K0IMnNC5rhJpQnDRd9hA1P7?usp=sharing)  
+- [Week 2 & 3 – Feature Engineering & Modeling](https://colab.research.google.com/drive/1Cfv2uuvbo5gdbMaDB4E_RMCZcxlb2ZhX?usp=sharing)
 
-Docs: **Week 1 Summary** (https://docs.google.com/document/d/1KaC9j29FeOrFRx0SYh6ykhUiTYikI_yoyGlCh2kejdE/edit?usp=sharing), **Week 2/3 Summary** (https://docs.google.com/document/d/1e2etarC9O55nTqxsOjekTLad9WM2B5jkopWBHf2YIU0/edit?usp=drive_link)
+**📚 Docs / Summaries**  
+- 🗂️ [Week 1 Summary (PDF)](https://drive.google.com/file/d/1_mQBL-3xMwuNjT-p6QTL9oZOzbvcgSW0/view?usp=drive_link)  
+- 📊 [Week 2 & 3 Summary (PDF)](https://drive.google.com/file/d/1WOuD4bAJAJn7rUpP_pjveGBl0FfJCyVL/view?usp=drive_link)  
 
-Präsentation: (https://www.canva.com/design/DAG2ZofHOTQ/_dOqv9u2oTY7nOZ4LMISAw/edit?utm_content=DAG2ZofHOTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**🎥 Presentation**  
+- [Final Slides on Canva](https://www.canva.com/design/DAG2ZofHOTQ/_dOqv9u2oTY7nOZ4LMISAw/edit?utm_content=DAG2ZofHOTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
